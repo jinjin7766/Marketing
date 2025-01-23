@@ -2,7 +2,7 @@
   <img src="https://github.com/jinjin7766/Marketing/blob/main/%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4_%EA%B3%A0%EA%B0%9D_%EC%84%B8%EB%B6%84%ED%99%94_%EB%B6%84%EC%84%9D_%ED%91%9C%EC%A7%80.png" alt="이커머스 고객 세분화 분석" style="width: 80%; height: auto; border-radius: 8px; border: 1px solid #d8dee4;">
 </div>
 
-## 프로젝트 요약 
+## 프로젝트 요약 [**(PDF 보기)**](./고객세분화분석.pdf)
 세종특별자치시의 폭염일수 증가 문제를 해결하기 위해 쿨페이브먼트 도입을 제안하고, 유동인구 밀집 지역을 선정하여 시민이 체감할 수 있는 효과를 극대화한 프로젝트입니다.
 
 
