@@ -1,5 +1,5 @@
 <div style="font-family: Arial, sans-serif; margin-top: 30px; text-align: center;">
-  <img src="https://github.com/jinjin7766/Portfolio/blob/main/%EA%B3%B5%EB%AA%A8%EC%A0%84_%ED%91%9C%EC%A7%80.png" alt="Cool Pavement 프로젝트" style="width: 80%; height: auto; border-radius: 8px; border: 1px solid #d8dee4;">
+  <img src="https://github.com/jinjin7766/Marketing/blob/main/%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4_%EA%B3%A0%EA%B0%9D_%EC%84%B8%EB%B6%84%ED%99%94_%EB%B6%84%EC%84%9D_%ED%91%9C%EC%A7%80.png" alt="Cool Pavement 프로젝트" style="width: 80%; height: auto; border-radius: 8px; border: 1px solid #d8dee4;">
 </div>
 
 ## 프로젝트 요약 
